@@ -3,9 +3,8 @@
 ## Description 
 Instructions: For this project, you will write a smart contract to create your own token and deploy it using HardHat or Remix. Once deployed, you should be able to interact with it for your walk-through video. From your chosen tool, the contract owner should be able to mint tokens to a provided address and any user should be able to burn and transfer tokens.
 
-For this project, we will write an ERC20-compliant smart contract to create your own token on a local Hardhat network. To get started, we will use the Hardhat boilerplate project that is shown in the Hardhat Website itself, which provides a solid foundation. Once you have set up the Hardhat project, you can begin writing your smart contract. The contract should be compatible with Remix, allowing easy interaction. As the contract owner, you should have the ability to mint tokens to a specified address. Additionally, any user should be able to burn and transfer tokens to other addresses.
+This program is an ERC20-compliant smart contract that creates your own token on a local Hardhat network. To start, the Hardhat boilerplate project provided on the Hardhat website will serve as a solid foundation. Once the Hardhat project is set up, you can begin writing your smart contract. The contract should be Remix-compatible to ensure easy interaction. Being the contract owner, you will be able to mint tokens to a specified address, while any user can burn and transfer tokens to other addresses.
 
-This 
 
 ## Getting Started 
 
